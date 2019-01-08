@@ -1,3 +1,7 @@
+// Write the recursive version and the iterative version of Fibonacci(100), 
+// and output the running times of the two programs.
+// This 1-1 program is for the recursive version of Fibonacci(100). 
+
 #include<stdio.h>
 #include<time.h>
 
